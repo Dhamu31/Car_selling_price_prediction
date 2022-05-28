@@ -83,9 +83,6 @@ pytest==7.1.2
 python-dateutil==2.8.2
 pyttsx3==2.90
 pytweening==1.0.4
-pytz==2022.1
-pywinpty==2.0.5
-pyzmq==23.0.0
 qtconsole==5.3.0
 QtPy==2.1.0
 requests==2.27.1
